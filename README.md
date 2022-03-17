@@ -1,1 +1,1 @@
-# demo-ssh
+# ssh-demo
